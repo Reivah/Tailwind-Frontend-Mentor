@@ -540,7 +540,20 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.h-\[500px\] {
+  height: 500px;
+}
+
+.w-\[500px\] {
+  width: 500px;
+}
+
 .bg-\[\#333\] {
   --tw-bg-opacity: 1;
   background-color: rgb(51 51 51 / var(--tw-bg-opacity));
+}
+
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
