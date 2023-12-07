@@ -2,7 +2,11 @@
 module.exports = {
   content: ["./dist/index.html"],
   theme: {
-    extend: {},
+    extend: {
+     colors: {
+      "Dark Slate Grey": "rgb(39,41,63)"
+     }
+    },
   },
   plugins: [],
 }
